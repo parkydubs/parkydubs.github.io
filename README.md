@@ -1,2 +1,1 @@
-# parkydubs.github.io
-# testing my thing
+# parkydubs.github.io personal portfolio/website
