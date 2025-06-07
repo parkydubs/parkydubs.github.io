@@ -1,0 +1,93 @@
+{
+    "profile": {
+      "photo": "parker_linkedin.jpeg",
+      "name": "Hi, I'm Parker Wang!",
+      "description": "I am a student in the Morrissey College of Arts and Sciences at Boston College! I am a junior studying Computer Science B.A. with a minor in Accounting for Finance and Consulting. In my free time, I find joy in swimming, honing my skills with my violin, and cheffing-up delicious home-cooked meals in the kitchen!",
+      "department": "Morrissey College of Arts and Sciences",
+      "university": "Boston College",
+      "address": "Chestnut Hill, MA 02467",
+      "phone": "(650) 799-7130",
+      "email": "parker.wang@bc.edu",
+      "linkedin": "parker-wang",
+      "github": "parkydubs"
+    },
+    "news": [
+      {
+        "title": "Participated in BC Hack the Heights",
+        "date": "Fall 2024"
+      },
+      {
+        "title": "Co-President of Taiwanese Cultural Organization",
+        "date": "Fall 2023"
+      },
+      {
+        "title": "Joined FullSwing Dance Team",
+        "date": "Fall 2023"
+      },
+      {
+        "title": "Asian Caucus Freshman Representative",
+        "date": "Fall 2022"
+      },
+      {
+        "title": "Joined BC Symphony Orchestra",
+        "date": "Fall 2022"
+      },
+      {
+        "title": "Enrolled in BC",
+        "date": "Fall 2022"
+      }
+    ],
+    "pages": [
+      {
+        "projects": [
+          {
+            "id": "page1",
+            "title": "CS Music Web Application for College Students",
+            "description1": "I came up with an idea to make a web app for college students to connect through music within their institute, specifically for looking for other musicians, collabs, displaying their works, experience, and more. After coming across issues at Hack the Heights, I decided to make it a personal project and go at my own pace to learn the process of making a Web App with more UI/UX features than a portfolio.",
+            "description2": "So far, I am using VS Code to write my full-stack, alongside GitHub using a repository and using GitHub Actions to simulate what my app would look like. I will be working with Python for backend and HTML, CSS, JS, and React for frontend.",
+            "description3": "I plan to learn more about React in my Web Application class and apply what I know to make this UI/UX friendly to viewers. I will learn more about storing/caching user information in order to build my backend so they are able to interact more with the app. Once I get a working page on the Web, I hope to make more additions to make it a mobile app for people to use more conveniently.",
+            "materials": {
+              "label1": "Photo",
+              "path1": "",
+              "alt1": "GitHub Photo",
+              "label2": "fa-microphone-lines",
+              "path2": "https://kit.fontawesome.com/fd6c1250eb.js"
+            }
+          },
+          {
+            "id": "page2",
+            "title": "Sharing Recipes Web App for College Students who Cook",
+            "description1": "The project focuses on addressing challenges faced by college students, particularly those living off-campus at Boston College, who have access to kitchen facilities but often resort to \"struggle meals\" like instant ramen and microwavable foods. The web app would encourage students to make better use of their kitchens by providing inspiration and guidance through shared recipes and cooking tips from fellow students, fostering a community around healthier, creative meal preparation.",
+            "description2": "The goal is to build a closer bond among students by offering inspiration and practical tips tailored to limited budgets, local ingredient availability, and the specific challenges students face when cooking in college environments like Boston College.",
+            "description3": "The app would address specific problems such as the lack of a platform for sharing student-made recipes and the challenge of finding meal ideas based on available ingredients and local grocery options. Through outreach and interviews with students, the team hopes to gather insights on user preferences, cooking habits, and the potential adoption of the app, with the aim of fostering an active, recipe-sharing community within and beyond Boston College.",
+            "materials": {
+              "label1": "Photo",
+              "path1": "",
+              "alt1": "Recipe Photo",
+              "label2": "fa-bowl-food",
+              "path2": "https://kit.fontawesome.com/fd6c1250eb.js"
+            }
+          }
+        ]
+      },
+      {
+        "interests": {
+          "id": "page3",
+          "title": "Music - Violin",
+          "content": "violin-content",
+          "description": "I enjoy practicing violin in my free time! I love playing in ensemble music, focusing on well-known composers such as Beethoven, Brahms, Mozart, Schubert, Haydn, and more. Back at home, I used to go busking with my friends on the busy downtown streets and we would make over $80/hr in raising funds for hurricane reliefs, COVID, and more!",
+          "materials": {
+            "label1": "portrait",
+            "path1": "",
+            "label2": "fa-brands fa-youtube",
+            "path2": "https://www.youtube.com/@fsharp2126",
+            "label3": "fa-music",
+            "class4": "violin-links",
+            "label4": "Repertoire/Music Resume",
+            "path4": ""
+          }
+        }
+      }
+    ]
+  }
+  
