@@ -6,5 +6,5 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Resume"
-    url: "put resume url here, add resume file in pdfs folder"
+    url: "/assets/pdfs/parker_resume.pdf"
   
