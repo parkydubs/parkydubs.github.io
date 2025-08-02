@@ -16,9 +16,45 @@
   height: 100% !important
   max-width: none
   object-fit: cover
+  border: 2px solid #f2f3f3
+
+.author__urls-wrapper
+  li:not(:first-child) a
+    color: #25877d
+    transition: color .2s
+
+    &:hover
+        color: #20776e
+
+
+
+
+
+@media (min-width: 64em)
+  .sidebar
+    opacity: 0.80
+    -webkit-transition: opacity 0.2s ease-in-out
+    transition: opacity 0.1s ease-in-out
+
+
+
+
+
+
+
 
 
 @media (max-width: 1023px)
+  .author__avatar
+    margin-bottom: 0
+    width: 80px
+    height: 80px
+    
+
+  .author__avatar img
+    padding: 3px
+    border: 2px solid #f2f3f3
+
   .sidebar
     display: flex
     flex-direction: row
@@ -30,4 +66,4 @@
   
   .author__content
     .author__name
-      font-size: 1.6rem
+      font-size: 1.4rem
