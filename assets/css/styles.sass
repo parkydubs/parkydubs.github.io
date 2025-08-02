@@ -1,3 +1,33 @@
 ---
 ---
 @import 'custom'
+
+
+.sidebar
+  margin-top: 6px
+
+.author__avatar
+  margin-bottom: 0
+  width: 120px
+  height: 120px
+
+.author__avatar img
+  width: 100% !important
+  height: 100% !important
+  max-width: none
+  object-fit: cover
+
+
+@media (max-width: 1023px)
+  .sidebar
+    display: flex
+    flex-direction: row
+    align-items: center
+
+  .sidebar > div[itemscope]
+    display: flex
+    align-items: center
+  
+  .author__content
+    .author__name
+      font-size: 1.6rem
